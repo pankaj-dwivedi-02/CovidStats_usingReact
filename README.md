@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+You can view it on clicking link below:
+http://worldcovidstatus.netlify.com/
+
+![](public/Img.PNG)
+
 ## Available Scripts
 
 In the project directory, you can run:
