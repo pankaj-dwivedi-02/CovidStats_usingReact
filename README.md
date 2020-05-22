@@ -5,6 +5,8 @@ http://worldcovidstatus.netlify.com/
 
 ![](public/Img.PNG)
 
+![](public/Img2.PNG)
+
 ## Available Scripts
 
 In the project directory, you can run:
